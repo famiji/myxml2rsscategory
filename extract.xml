@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>资讯-虎嗅网</title>
+	<description>Feed created by FiveFilters.org</description>
+	<link>https://www.huxiu.com/article/</link>
+	<generator>Feed Creator</generator>
+	<atom:link rel="self" href="https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F&amp;text_contains%5B0%5D=%E8%B5%84%E8%AE%AF" />
+	<atom:link rel="related" title="Edit feed with Feed Creator" href="https://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F&amp;text_contains%5B0%5D=%E8%B5%84%E8%AE%AF"/>
+	<item>
+		<title>资讯</title>
+		<link>https://www.huxiu.com/article/</link>
+		<description></description>
+	</item>
+</channel>
+</rss>
